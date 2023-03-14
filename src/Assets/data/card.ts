@@ -1,0 +1,121 @@
+import ReplaceImg from "../img/ReplaceImg.svg";
+
+export const cardsAtMain = [
+  {
+    id: 1,
+    img: ReplaceImg,
+    title: "안녕하세요?",
+    name: "세계최강박시원",
+    trust: 4.5,
+  },
+  {
+    id: 2,
+    img: ReplaceImg,
+    title: "안녕하세요?",
+    name: "세계최강박시원",
+    trust: 4.5,
+  },
+  {
+    id: 3,
+    img: ReplaceImg,
+    title: "안녕하세요?",
+    name: "세계최강박시원",
+    trust: 4.5,
+  },
+  {
+    id: 4,
+    img: ReplaceImg,
+    title: "안녕하세요?",
+    name: "세계최강박시원",
+    trust: 4.5,
+  },
+  {
+    id: 5,
+    img: ReplaceImg,
+    title: "안녕하세요?",
+    name: "세계최강박시원",
+    trust: 4.5,
+  },
+  {
+    id: 6,
+    img: ReplaceImg,
+    title: "안녕하세요?",
+    name: "세계최강박시원",
+    trust: 4.5,
+  },
+  {
+    id: 7,
+    img: ReplaceImg,
+    title: "안녕하세요?",
+    name: "세계최강박시원",
+    trust: 4.5,
+  },
+  {
+    id: 8,
+    img: ReplaceImg,
+    title: "안녕하세요?",
+    name: "세계최강박시원",
+    trust: 4.5,
+  },
+  {
+    id: 9,
+    img: ReplaceImg,
+    title: "안녕하세요?",
+    name: "세계최강박시원",
+    trust: 4.5,
+  },
+  {
+    id: 10,
+    img: ReplaceImg,
+    title: "안녕하세요?",
+    name: "세계최강박시원",
+    trust: 4.5,
+  },
+  {
+    id: 11,
+    img: ReplaceImg,
+    title: "안녕하세요?",
+    name: "세계최강박시원",
+    trust: 4.5,
+  },
+  {
+    id: 12,
+    img: ReplaceImg,
+    title: "안녕하세요?",
+    name: "세계최강박시원",
+    trust: 4.5,
+  },
+  {
+    id: 13,
+    img: ReplaceImg,
+    title: "안녕하세요?",
+    name: "세계최강박시원",
+    trust: 4.5,
+  },
+  {
+    id: 14,
+    img: ReplaceImg,
+    title: "안녕하세요?",
+    name: "세계최강박시원",
+    trust: 4.5,
+  },
+  {
+    id: 15,
+    img: ReplaceImg,
+    title: "안녕하세요?",
+    name: "세계최강박시원",
+    trust: 4.5,
+  },
+  {
+    id: 16,
+    img: ReplaceImg,
+    title: "안녕하세요?",
+    name: "세계최강박시원",
+    trust: 4.5,
+  },
+];
+
+export const cardsAtMy = [
+  { id: 1, img: ReplaceImg, title: "안녕하세요?" },
+  { id: 2, img: ReplaceImg, title: "안녕하세요?" },
+];
